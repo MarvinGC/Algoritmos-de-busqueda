@@ -1,6 +1,6 @@
 # Algoritmos de busqueda en Ncurses
 
-Representacion visual de algunos de los principales algoritmos de busqueda, usando c++ y ncurses
+Representación visual de algunos de los principales algoritmos de búsqueda, usando c++ y ncurses
 
 
 Por ahora he implementado estos
@@ -17,11 +17,11 @@ Por ahora he implementado estos
 
 ## Como correrlo 
 
-Primero se debe compilar el programa, y se añade la vandera para ncurses
+Primero se debe compilar el programa, y se añade la bandera para ncurses
 > g++ -o menu.o menu.cpp -g -lncurses
 
 
-Despues simplemente ejecutalo con
+Después simplemente ejecútalo con
 > .\menu.o
 
 
