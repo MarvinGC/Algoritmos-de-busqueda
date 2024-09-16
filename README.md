@@ -23,4 +23,6 @@ Después simplemente ejecútalo con
 
 ## Funcionamiento
 
-![[Ejemplo](https://github.com/MarvinGC/Algoritmos-de-busqueda/blob/main/github_images/Video%20sin%20t%C3%ADtulo%20%E2%80%90%20Hecho%20con%20Clipchamp.mp4)]
+![[Algoritmo BFS](https://github.com/MarvinGC/Algoritmos-de-busqueda/blob/main/github_images/algoritmo%20bfs.gif))]
+![[[Algoritmo Dijstra](https://github.com/MarvinGC/Algoritmos-de-busqueda/blob/main/github_images/algoritmo%20dijstra.gif)]
+![[Algoritmo A estrella](https://github.com/MarvinGC/Algoritmos-de-busqueda/blob/main/github_images/algoritmo%20a%20estrella.gif)]
