@@ -23,4 +23,4 @@ Después simplemente ejecútalo con
 
 ## Funcionamiento
 
-![[Video sin título ‐ Hecho con Clipchamp.mp4]]
+![[Ejemplo](https://github.com/MarvinGC/Algoritmos-de-busqueda/blob/main/github_images/Video%20sin%20t%C3%ADtulo%20%E2%80%90%20Hecho%20con%20Clipchamp.mp4)]
