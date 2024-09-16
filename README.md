@@ -22,7 +22,9 @@ Después simplemente ejecútalo con
 > .\menu.o
 
 ## Funcionamiento
-
-[Algoritmo BFS](https://github.com/MarvinGC/Algoritmos-de-busqueda/blob/main/github_images/algoritmo%20bfs.gif)
-[Algoritmo Dijstra](https://github.com/MarvinGC/Algoritmos-de-busqueda/blob/main/github_images/algoritmo%20dijstra.gif)
-[Algoritmo A estrella](https://github.com/MarvinGC/Algoritmos-de-busqueda/blob/main/github_images/algoritmo%20a%20estrella.gif)
+<p>Algoritmos BFS</p>
+<img src="https://github.com/MarvinGC/Algoritmos-de-busqueda/blob/main/github_images/algoritmo%20bfs.gif" alt="Algoritmo bfs"/>
+<p>Algoritmo Dijstra</p>
+<img src="https://github.com/MarvinGC/Algoritmos-de-busqueda/blob/main/github_images/algoritmo%20dijstra.gif" alt="Algoritmo Dijstra"/>
+<p>Algoritmo A estrella</p>
+<img src="https://github.com/MarvinGC/Algoritmos-de-busqueda/blob/main/github_images/algoritmo%20a%20estrella.gif" alt="Algoritmo A estrella"/>
