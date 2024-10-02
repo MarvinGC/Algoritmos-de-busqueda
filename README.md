@@ -24,7 +24,7 @@ Después simplemente ejecútalo con
 ## Funcionamiento
 <p>Algoritmos BFS</p>
 <img src="https://github.com/MarvinGC/Algoritmos-de-busqueda/blob/main/github_images/algoritmo%20bfs.gif" alt="Algoritmo bfs"/>
-<p>Algoritmo Dijstra</p>
+<p>Algoritmo Dijkstra</p>
 <img src="https://github.com/MarvinGC/Algoritmos-de-busqueda/blob/main/github_images/algoritmo%20dijstra.gif" alt="Algoritmo Dijstra"/>
 <p>Algoritmo A estrella</p>
 <img src="https://github.com/MarvinGC/Algoritmos-de-busqueda/blob/main/github_images/algoritmo%20a%20estrella.gif" alt="Algoritmo A estrella"/>
